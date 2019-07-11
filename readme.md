@@ -2,6 +2,8 @@
 
 > You give me a certificate, I give you a cookie you can use to query CERN services using SSO
 
+Inspired in [Python's implementation](https://github.com/cerndb/cern-sso-python) and [Perl's implementation](https://github.com/sashabaranov/cern-get-sso-cookie/).
+
 ## Install
 
 ```
