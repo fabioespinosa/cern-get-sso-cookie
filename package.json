@@ -1,0 +1,19 @@
+{
+    "name": "cern-get-sso-cookie",
+    "version": "1.0.0",
+    "description": "You give me a certificate, I give you a cookie you can use to query CERN services using SSO",
+    "main": "index.js",
+    "scripts": {
+        "test": "ava"
+    },
+    "author": "Fabio Espinosa",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.19.0",
+        "cheerio": "^1.0.0-rc.3",
+        "querystring": "^0.2.0"
+    },
+    "devDependencies": {
+        "ava": "^2.2.0"
+    }
+}
